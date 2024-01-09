@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Entradas",
+    "products": [
+      {
+        "id": 101,
+        "name": "Ensalada César",
+        "description": "Lechuga, pollo a la parrilla, parmesano, crutones y aderezo César.",
+        "price": 8.99,
+        "image": "default.webp"
+      },
+      {
+        "id": 102,
+        "name": "Aros de Cebolla",
+        "description": "Aros de cebolla crujientes con salsa de tomate.",
+        "price": 5.99,
+        "image": "default.webp"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Platos Principales",
+    "products": [
+      {
+        "id": 201,
+        "name": "Filete Mignon",
+        "description": "Filete de ternera con guarnición de verduras y puré de papas.",
+        "price": 19.99,
+        "image": "default.webp"
+      },
+      {
+        "id": 202,
+        "name": "Pasta Alfredo",
+        "description": "Pasta con salsa Alfredo, champiñones y pollo.",
+        "price": 14.99,
+        "image": "default.webp"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Postres",
+    "products": [
+      {
+        "id": 301,
+        "name": "Tiramisú",
+        "description": "Postre italiano con capas de bizcocho, mascarpone y cacao.",
+        "price": 7.99,
+        "image": "default.webp"
+      },
+      {
+        "id": 302,
+        "name": "Helado de Vainilla",
+        "description": "Helado de vainilla con sirope de chocolate.",
+        "price": 4.99,
+        "image": "default.webp"
+      }
+    ]
+  }
+]
